@@ -34,6 +34,7 @@
 
     <name>ixortalk-blackbox-exporter</name>
     <description>IxorTalk docker for Prometheus Blackbox Exporter</description>
+    <url>https://github.com/ixortalkadmin/ixortalk-blackbox-exporter/tree/master</url>
 
     <organization>
         <name>IxorTalk CVBA</name>
