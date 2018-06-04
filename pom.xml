@@ -34,7 +34,7 @@
 
     <name>ixortalk-blackbox-exporter</name>
     <description>IxorTalk docker for Prometheus Blackbox Exporter</description>
-    <url>https://github.com/ixortalkadmin/ixortalk-blackbox-exporter/tree/master</url>
+    <url>https://github.com/ixortalk/ixortalk-blackbox-exporter/tree/master</url>
 
     <organization>
         <name>IxorTalk CVBA</name>
@@ -71,7 +71,7 @@
     <scm>
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-blackbox-exporter.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-blackbox-exporter.git</developerConnection>
-        <url>https://github.com/ixortalkadmin/ixortalk-blackbox-exporter/tree/master</url>
+        <url>https://github.com/ixortalk/ixortalk-blackbox-exporter/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
