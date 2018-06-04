@@ -69,8 +69,8 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-blackbox-exporter.git</connection>
-        <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-blackbox-exporter.git</developerConnection>
+        <connection>scm:git:git@github.com:ixortalk/ixortalk-blackbox-exporter.git</connection>
+        <developerConnection>scm:git:git@github.com:ixortalk/ixortalk-blackbox-exporter.git</developerConnection>
         <url>https://github.com/ixortalk/ixortalk-blackbox-exporter/tree/master</url>
         <tag>HEAD</tag>
     </scm>
