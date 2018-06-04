@@ -2,7 +2,7 @@
 
 For general documentation about the IxorTalk platform: https://github.com/ixortalk/ixortalk-gateway
 
-IxorTalk Blackbox Expoter is a docker wrapper around [Prometheus](https://prometheus.io/) Blackbox Expoter which pulls its configuration from the config server.
+IxorTalk Blackbox Exporter is a docker wrapper around [Prometheus](https://prometheus.io/) Blackbox Expoter which pulls its configuration from the config server.
 
 ## Building
 
