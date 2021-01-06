@@ -29,7 +29,7 @@
 
     <groupId>com.ixortalk</groupId>
     <artifactId>ixortalk-blackbox-exporter</artifactId>
-    <version>3.0.1-SNAPSHOT</version>
+    <version>3.0.1</version>
     <packaging>jar</packaging>
 
     <name>ixortalk-blackbox-exporter</name>
@@ -72,7 +72,7 @@
         <connection>scm:git:git@github.com:ixortalk/ixortalk-blackbox-exporter.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalk/ixortalk-blackbox-exporter.git</developerConnection>
         <url>https://github.com/ixortalk/ixortalk-blackbox-exporter/tree/master</url>
-        <tag>HEAD</tag>
+        <tag>ixortalk-blackbox-exporter-3.0.1</tag>
     </scm>
 
     <distributionManagement>
