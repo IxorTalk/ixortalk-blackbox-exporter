@@ -22,7 +22,7 @@
 # SOFTWARE.
 #
 
-FROM prom/blackbox-exporter:v0.11.0
+FROM prom/blackbox-exporter:v0.18.0
 ADD docker-entrypoint.sh /
 ADD healthcheck.sh /
 RUN chmod +x /docker-entrypoint.sh /healthcheck.sh && mkdir -p /config
